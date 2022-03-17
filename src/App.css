@@ -1,0 +1,16 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.App h2 {
+    text-align: center;
+}
+
+.App .control-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
